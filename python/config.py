@@ -51,7 +51,14 @@ EXTERNAL_EXTENSIONS = [
     "version": "1.0.0",
     "prefix": "landsat",
     "description": "*JSON Schema only!*"
-  }
+  },
+  {
+    "title": "TrainingDML-AI",
+    "url": "https://github.com/TrainingDML/trainingdml-ai-extension",
+    "version": "1.0.0",
+    "prefix": "tdml",
+    "description": "The TrainingDML-AI Extension provides detailed metadata for formalizing the information model of geospatial machine learning training data. "
+  },
 ]
 
 # Names of repositories in the stac-extensions org to skip
