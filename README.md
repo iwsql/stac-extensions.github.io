@@ -244,7 +244,7 @@ Below you can also find a list of extensions grouped by [maturity](#grouped-by-m
 
 * [Tiled Assets](https://github.com/stac-extensions/tiled-assets)
 
-* [trainingdml-ai-extension](https://github.com/TrainingDML/trainingdml-ai-extension)*
+* [trainingdml-ai-extension](https://github.com/openrsgis/trainingdml-ai-extension)*
 
 
 #### Deprecated
